@@ -1,3 +1,6 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=seyarhasir&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
 - 👋 Hi, I’m @seyarhasir
 - 👀 I’m interested in programming, watching football matches, playing online games, and reading books.
 - 🌱 I’m currently learning Python, HTML, CSS, and Javascript.
