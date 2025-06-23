@@ -3,53 +3,71 @@
 </a>
 
 <h1 align="center">Hi, I'm Seyar Hasir 👋</h1>
-<h3 align="center">Full Stack Developer | Focused on Web, Mobile, and Scalable Products</h3>
+<h3 align="center">Full Stack Developer | Web, Mobile & E‑commerce</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+Supabase+%7C+Firebase;WordPress+%7C+Shopify+%7C+Duda;Building+eCommerce+%26+Web+Apps;Open+to+Collaboration!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+Supabase+%7C+Flutter+%7C+Firebase;WordPress+%7C+Shopify+%7C+Duda+%7C+Clerk;Building+E‑commerce+%26+Scalable+Apps;Always+Learning+and+Collaborating!" alt="Typing animation" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🧑‍💻 I love turning ideas into scalable digital products  
-- 🚀 Currently building e-commerce, POS-integrated, and mobile-first apps  
-- 📚 C1 English speaker & Persian native  
-- 💬 Ask me about **Next.js, Firebase, Supabase, WordPress, or Shopify**
-
----
-
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light.svg" width="40" height="40" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" height="40" alt="Shopify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/tailwindcss.svg" width="40" alt="Tailwind CSS" />
+
+  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/flutter.svg" width="40" alt="Flutter" />
+
+  <!-- Backend / Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light.svg" width="40" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+
+  <!-- CMS / Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" alt="Shopify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/duda/duda-original.svg" width="40" alt="Duda" />
+
+  <!-- Auth & APIs -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/clerk.svg" width="40" alt="Clerk" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" alt="Netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/git.svg" width="40" alt="Git" />
 </p>
 
 ---
 
 ## 🌍 Languages I Speak
 
-| Language | Fluency |
-|----------|---------|
-| 🏴 English | C1 (Advanced) |
+| Language | Proficiency |
+|----------|-------------|
 | 🇮🇷 Persian (Farsi) | Native |
+| 🇬🇧 English | C1 — Advanced |
 
 ---
 
-## 🔗 Contact Me
+## 📫 Let's Connect
 
-- 📧 Email: **ahmadseyarhasir@gmail.com**
-- 🌍 Website: _Coming soon_
-- 💬 Available for freelance and collaborative projects
+| Platform     | Link |
+|--------------|------|
+| 📧 Email     | ahmadseyarhasir@gmail.com |
+| 🌐 Website   | _(Coming Soon)_ |
+| 💼 LinkedIn  | _(Optional - add link)_ |
 
 ---
 
@@ -62,4 +80,4 @@
 
 ---
 
-> 🧩 *Let’s build something that matters – together.*
+> ⚡ *"Code with purpose, build with passion."*
