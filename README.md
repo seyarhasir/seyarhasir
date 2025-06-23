@@ -26,17 +26,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyarhasir&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=seyarhasir&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Profile Visitors
-
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=seyarhasir&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyarhasir&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
