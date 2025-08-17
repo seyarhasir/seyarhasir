@@ -20,11 +20,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,firebase,supabase,wordpress,shopify,github,vercel" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyarhasir&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
