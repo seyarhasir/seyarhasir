@@ -11,7 +11,7 @@
 - 🌱 Learning **TypeScript**, **Next.js App Router**, and **Firebase Auth**
 - 💬 Ask me about: **React, Firebase, Supabase, Clerk, WordPress**
 - 🌍 I speak **native Persian (Dari)** and have **C1 English** proficiency
-- 📫 Reach me at: **ahmadseyarhasir@gmail.com**
+- 📫 Reach me at: **ahmadseyarhasir@gmail.com** 
 
 ---
 
