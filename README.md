@@ -7,7 +7,7 @@
 ---
 
 # 💫 About Me:
-<br>- 🔭 I’m currently building **multi-vendor e-commerce platforms**<br>- 🌱 Learning **TypeScript**, **Next.js App Router**, and **Firebase Auth**<br>- 💬 Ask me about: **React, Firebase, Supabase, Clerk, WordPress**<br>- 🌍 I speak **native Persian (Dari)** and have **C1 English** proficiency<br>- 📫 Reach me at: **ahmadseyarhasir@gmail.com** 
+<br>- 🔭 I’m currently building **multi-vendor e-commerce platforms**<br>- 🌱 Learning **TypeScript**, **Next.js App Router**, and **Firebase Auth**<br>- 💬 Ask me about: **React, Firebase, Supabase, Clerk, WordPress**<br>- 🌍 I speak **native Persian (Dari)** and have **C1 English** proficiency<br>- 📫 Reach me at: **ahmadseyarhasir@gmail.com** or **seyarhasir@cokoagency.com**
 
 
 # 💻 Tech Stack:
